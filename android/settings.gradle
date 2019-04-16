@@ -1,0 +1,3 @@
+rootProject.name = 'the_twisty_app_2315'
+
+include ':app'
